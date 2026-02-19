@@ -166,7 +166,8 @@ footer {
     .nav-links {
         display: none;
         flex-direction: column;
-        background-color: rgba(0, 0, 0, 0.3);
+        /* background-color: rgba(0, 0, 0, 0.3); */
+        background-color: var(--coral-pink);
         position: absolute;
         top: 115px;
         right: 0;
