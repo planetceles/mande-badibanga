@@ -129,7 +129,7 @@ footer {
 .commands a {
     color: var(--gold-color);
     text-decoration-color: var(--accent-soft-aqua);
-    font-size: .6rem;
+    font-size: .9rem;
 }
 #confetti-canvas {
     position: fixed;
